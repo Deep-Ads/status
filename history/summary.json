@@ -76,19 +76,19 @@
     "url": "https://wpp.deepads.com.br",
     "icon": "https://favicons.githubusercontent.com/wpp.deepads.com.br",
     "slug": "api-whatsapp-v2-0",
-    "status": "down",
-    "uptime": "99.89%",
-    "uptimeDay": "99.89%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.89%",
-    "uptimeYear": "99.89%",
-    "time": 505,
-    "timeDay": 505,
-    "timeWeek": 505,
-    "timeMonth": 505,
-    "timeYear": 505,
+    "status": "up",
+    "uptime": "83.10%",
+    "uptimeDay": "83.10%",
+    "uptimeWeek": "83.10%",
+    "uptimeMonth": "83.10%",
+    "uptimeYear": "83.10%",
+    "time": 480,
+    "timeDay": 480,
+    "timeWeek": 480,
+    "timeMonth": 480,
+    "timeYear": 480,
     "dailyMinutesDown": {
-      "2021-07-26": 0
+      "2021-07-26": 19
     }
   }
 ]
