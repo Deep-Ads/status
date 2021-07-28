@@ -42,19 +42,19 @@
     "url": "https://lancamento.deepads.com.br",
     "icon": "https://favicons.githubusercontent.com/lancamento.deepads.com.br",
     "slug": "campanhas",
-    "status": "down",
-    "uptime": "99.10%",
-    "uptimeDay": "98.08%",
-    "uptimeWeek": "99.10%",
-    "uptimeMonth": "99.10%",
-    "uptimeYear": "99.10%",
-    "time": 656,
-    "timeDay": 661,
-    "timeWeek": 656,
-    "timeMonth": 656,
-    "timeYear": 656,
+    "status": "up",
+    "uptime": "98.86%",
+    "uptimeDay": "97.56%",
+    "uptimeWeek": "98.86%",
+    "uptimeMonth": "98.86%",
+    "uptimeYear": "98.86%",
+    "time": 664,
+    "timeDay": 673,
+    "timeWeek": 664,
+    "timeMonth": 664,
+    "timeYear": 664,
     "dailyMinutesDown": {
-      "2021-07-28": 28
+      "2021-07-28": 36
     }
   },
   {
