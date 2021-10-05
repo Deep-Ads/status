@@ -13,7 +13,7 @@ sites:
       - 400
       - 503
   - name: Painel do Cliente
-    url: https://app.deeptools.com.br
+    url: https://app.deepads.com.br
     expectedStatusCodes:
       - 200
       - 201
@@ -23,15 +23,6 @@ sites:
       - 503
   - name: Campanhas
     url: https://lancamento.deepads.com.br
-    expectedStatusCodes:
-      - 200
-      - 201
-      - 403
-      - 401
-      - 400
-      - 503
-  - name: API Whatsapp
-    url: https://api.deepads.com.br
     expectedStatusCodes:
       - 200
       - 201
@@ -62,6 +53,6 @@ status-website:
     - title: Status
       href: /
     - title: Login
-      href: https://app.deeptools.com.br
+      href: https://app.deepads.com.br
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
