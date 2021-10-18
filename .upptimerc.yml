@@ -30,8 +30,8 @@ sites:
       - 401
       - 400
       - 503
-  - name: API Whatsapp v2.0
-    url: https://wpp.deepads.com.br
+  - name: Whatsapp EUA-01
+    url: https://wpp-01.deepads.com.br
     expectedStatusCodes:
       - 200
       - 201
