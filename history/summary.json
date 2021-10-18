@@ -24,10 +24,10 @@
     "url": "https://app.deepads.com.br",
     "icon": "https://favicons.githubusercontent.com/app.deepads.com.br",
     "slug": "painel-do-cliente",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 1137,
@@ -36,6 +36,7 @@
     "timeMonth": 1003,
     "timeYear": 1137,
     "dailyMinutesDown": {
+      "2021-10-18": 1,
       "2021-09-10": 18,
       "2021-07-28": 28
     }
@@ -45,9 +46,9 @@
     "url": "https://lancamento.deepads.com.br",
     "icon": "https://favicons.githubusercontent.com/lancamento.deepads.com.br",
     "slug": "campanhas",
-    "status": "up",
+    "status": "down",
     "uptime": "99.66%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.66%",
@@ -57,6 +58,7 @@
     "timeMonth": 722,
     "timeYear": 716,
     "dailyMinutesDown": {
+      "2021-10-18": 0,
       "2021-09-13": 9,
       "2021-09-10": 17,
       "2021-09-07": 354,
