@@ -67,19 +67,19 @@
     "url": "https://wpp-01.deepads.com.br",
     "icon": "https://favicons.githubusercontent.com/wpp-01.deepads.com.br",
     "slug": "whatsapp-eua-01",
-    "status": "down",
-    "uptime": "99.89%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.89%",
-    "uptimeYear": "99.89%",
+    "status": "up",
+    "uptime": "99.81%",
+    "uptimeDay": "97.37%",
+    "uptimeWeek": "99.62%",
+    "uptimeMonth": "99.81%",
+    "uptimeYear": "99.81%",
     "time": 505,
-    "timeDay": 636,
-    "timeWeek": 488,
+    "timeDay": 567,
+    "timeWeek": 489,
     "timeMonth": 505,
     "timeYear": 505,
     "dailyMinutesDown": {
-      "2021-11-17": 0,
+      "2021-11-17": 38,
       "2021-10-25": 46
     }
   }
