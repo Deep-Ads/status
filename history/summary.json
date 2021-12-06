@@ -24,9 +24,9 @@
     "url": "https://app.deepads.com.br",
     "icon": "https://favicons.githubusercontent.com/app.deepads.com.br",
     "slug": "painel-do-cliente",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
@@ -36,6 +36,7 @@
     "timeMonth": 646,
     "timeYear": 965,
     "dailyMinutesDown": {
+      "2021-12-06": 0,
       "2021-09-10": 18,
       "2021-07-28": 28
     }
@@ -45,9 +46,9 @@
     "url": "https://lancamento.deepads.com.br",
     "icon": "https://favicons.githubusercontent.com/lancamento.deepads.com.br",
     "slug": "campanhas",
-    "status": "up",
+    "status": "down",
     "uptime": "99.79%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.79%",
@@ -57,6 +58,7 @@
     "timeMonth": 648,
     "timeYear": 696,
     "dailyMinutesDown": {
+      "2021-12-06": 0,
       "2021-09-10": 17,
       "2021-09-07": 354,
       "2021-07-28": 36
@@ -68,11 +70,11 @@
     "icon": "https://favicons.githubusercontent.com/wpp-01.deepads.com.br",
     "slug": "whatsapp-eua-01",
     "status": "up",
-    "uptime": "99.37%",
+    "uptime": "99.38%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "97.21%",
     "uptimeMonth": "99.10%",
-    "uptimeYear": "99.37%",
+    "uptimeYear": "99.38%",
     "time": 491,
     "timeDay": 579,
     "timeWeek": 477,
