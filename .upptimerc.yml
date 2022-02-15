@@ -30,15 +30,21 @@ sites:
       - 401
       - 400
       - 503
+  - name: Painel v4.0
+    url: https://dashboard.v4.deepads.com.br
+    expectedStatusCodes:
+      - 200
+      - 201
   - name: Whatsapp EUA-01
     url: https://wpp-01.deepads.com.br
     expectedStatusCodes:
       - 200
       - 201
-      - 403
-      - 401
-      - 400
-      - 503
+  - name: Whatsapp EUA-02
+    url: https://dashboard.v4.deepads.com.br
+    expectedStatusCodes:
+      - 200
+      - 201
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
