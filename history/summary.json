@@ -69,19 +69,19 @@
     "url": "https://v4.deeptools.com.br",
     "icon": "https://favicons.githubusercontent.com/v4.deeptools.com.br",
     "slug": "painel-v4-0",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 605,
-    "timeDay": 326,
-    "timeWeek": 605,
-    "timeMonth": 605,
-    "timeYear": 605,
+    "status": "up",
+    "uptime": "98.27%",
+    "uptimeDay": "95.41%",
+    "uptimeWeek": "98.27%",
+    "uptimeMonth": "98.27%",
+    "uptimeYear": "98.27%",
+    "time": 757,
+    "timeDay": 663,
+    "timeWeek": 757,
+    "timeMonth": 757,
+    "timeYear": 757,
     "dailyMinutesDown": {
-      "2022-02-18": 0
+      "2022-02-18": 66
     }
   },
   {
