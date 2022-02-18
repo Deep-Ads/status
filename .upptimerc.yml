@@ -4,34 +4,22 @@ repo: status # The name of this repository
 
 sites:
   - name: Site
-    url: https://www.deepads.com.br
+    url: https://www.deeptools.com.br
     expectedStatusCodes:
       - 200
       - 201
-      - 403
-      - 401
-      - 400
-      - 503
   - name: Painel do Cliente
-    url: https://app.deepads.com.br
+    url: https://app.deeptools.com.br
     expectedStatusCodes:
       - 200
       - 201
-      - 403
-      - 401
-      - 400
-      - 503
   - name: Campanhas
     url: https://lancamento.deepads.com.br
     expectedStatusCodes:
       - 200
       - 201
-      - 403
-      - 401
-      - 400
-      - 503
   - name: Painel v4.0
-    url: https://dashboard.v4.deepads.com.br
+    url: https://v4.deeptools.com.br
     expectedStatusCodes:
       - 200
       - 201
@@ -40,8 +28,8 @@ sites:
     expectedStatusCodes:
       - 200
       - 201
-  - name: Whatsapp EUA-02
-    url: https://dashboard.v4.deepads.com.br
+  - name: Whatsapp EUA-03
+    url: https://wpp-03.deepads.com.br
     expectedStatusCodes:
       - 200
       - 201
@@ -53,12 +41,12 @@ status-website:
   # baseUrl: /your-repo-name
   logoUrl: https://www.deepads.com.br/wp-content/uploads/elementor/thumbs/logo_horizontal@2x-p5r2vu6c2oc21xhugymxs2lw4xsdum52fbqcl530u8.png
   name: Deep Ads
-  introTitle: "**Deep Ads**, a melhor plataforma para lançamentos integrados com o Whatsapp."
+  introTitle: "**Deep Tools**, a melhor plataforma para lançamentos integrados com o Whatsapp."
   introMessage: Verifique os status de nossos serviços
   navbar:
     - title: Status
       href: /
     - title: Login
-      href: https://app.deepads.com.br
+      href: https://v4.deeptools.com.br
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
