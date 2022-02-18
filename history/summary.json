@@ -69,18 +69,20 @@
     "url": "https://v4.deeptools.com.br",
     "icon": "https://favicons.githubusercontent.com/v4.deeptools.com.br",
     "slug": "painel-v4-0",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 686,
-    "timeDay": 391,
-    "timeWeek": 686,
-    "timeMonth": 686,
-    "timeYear": 686,
-    "dailyMinutesDown": {}
+    "time": 605,
+    "timeDay": 326,
+    "timeWeek": 605,
+    "timeMonth": 605,
+    "timeYear": 605,
+    "dailyMinutesDown": {
+      "2022-02-18": 0
+    }
   },
   {
     "name": "Whatsapp EUA-01",
