@@ -3,50 +3,52 @@ owner: Deep-Ads # Your GitHub organization or username, where this repository li
 repo: status # The name of this repository
 
 sites:
-  - name: Site
+  - name: Página de vendas
     url: https://www.deeptools.com.br
     expectedStatusCodes:
       - 200
-      - 201
-  - name: Painel do Cliente
-    url: https://app.deeptools.com.br
+  - name: Área de membros
+    url: https://painel.deeptools.com.br
     expectedStatusCodes:
       - 200
-      - 201
-  - name: Campanhas
-    url: https://lancamento.deepads.com.br
+  - name: Redirecionador de grupos
+    url: https://br.deepads.com.br
     expectedStatusCodes:
       - 200
-      - 201
-  - name: Painel v4.0
-    url: https://v4.deeptools.com.br
+  - name: API-1
+    url: https://wpp-01.deepads.com.br/
     expectedStatusCodes:
+      - 404
       - 200
-      - 201
-  - name: Whatsapp EUA-01
-    url: https://wpp-01.deepads.com.br
+  - name: API-2
+    url: https://wpp-03.deepads.com.br/
     expectedStatusCodes:
+      - 404
       - 200
-      - 201
-  - name: Whatsapp EUA-03
-    url: https://wpp-03.deepads.com.br
+  - name: API-3
+    url: https://wpp-04.deepads.com.br/
     expectedStatusCodes:
+      - 404
       - 200
-      - 201
+  - name: API-4
+    url: https://wpp-05.deepads.com.br/
+    expectedStatusCodes:
+      - 404
+      - 200
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.deepads.com.br
   # baseUrl: /your-repo-name
-  logoUrl: https://www.deepads.com.br/wp-content/uploads/elementor/thumbs/logo_horizontal@2x-p5r2vu6c2oc21xhugymxs2lw4xsdum52fbqcl530u8.png
-  name: Deep Ads
+  logoUrl: https://www.deeptools.com.br/wp-content/webp-express/webp-images/uploads/2022/02/Logo-e1644432746773-1.png.webp
+  name: Deep Tools
   introTitle: "**Deep Tools**, a melhor plataforma para lançamentos integrados com o Whatsapp."
   introMessage: Verifique os status de nossos serviços
   navbar:
     - title: Status
       href: /
-    - title: Login
-      href: https://v4.deeptools.com.br
+    - title: Área de membros
+      href: https://painel.deeptools.com.br
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
