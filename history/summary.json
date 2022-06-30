@@ -61,18 +61,19 @@
     "icon": "https://favicons.githubusercontent.com/wpp-01.deepads.com.br",
     "slug": "api-1",
     "status": "down",
-    "uptime": "94.70%",
-    "uptimeDay": "95.84%",
-    "uptimeWeek": "94.70%",
-    "uptimeMonth": "94.70%",
-    "uptimeYear": "94.70%",
+    "uptime": "93.86%",
+    "uptimeDay": "91.42%",
+    "uptimeWeek": "93.86%",
+    "uptimeMonth": "93.86%",
+    "uptimeYear": "93.86%",
     "time": 9581,
     "timeDay": 16679,
     "timeWeek": 9581,
     "timeMonth": 9581,
     "timeYear": 9581,
     "dailyMinutesDown": {
-      "2022-06-29": 60,
+      "2022-06-30": 53,
+      "2022-06-29": 71,
       "2022-06-28": 261,
       "2022-06-27": 55
     }
@@ -83,18 +84,19 @@
     "icon": "https://favicons.githubusercontent.com/wpp-03.deepads.com.br",
     "slug": "api-2",
     "status": "down",
-    "uptime": "98.89%",
-    "uptimeDay": "94.53%",
-    "uptimeWeek": "98.89%",
-    "uptimeMonth": "98.89%",
-    "uptimeYear": "98.89%",
+    "uptime": "98.01%",
+    "uptimeDay": "90.11%",
+    "uptimeWeek": "98.01%",
+    "uptimeMonth": "98.01%",
+    "uptimeYear": "98.01%",
     "time": 4439,
     "timeDay": 24588,
     "timeWeek": 4439,
     "timeMonth": 4439,
     "timeYear": 4439,
     "dailyMinutesDown": {
-      "2022-06-29": 79
+      "2022-06-30": 53,
+      "2022-06-29": 90
     }
   },
   {
@@ -103,18 +105,19 @@
     "icon": "https://favicons.githubusercontent.com/wpp-04.deepads.com.br",
     "slug": "api-3",
     "status": "down",
-    "uptime": "98.92%",
-    "uptimeDay": "94.67%",
-    "uptimeWeek": "98.92%",
-    "uptimeMonth": "98.92%",
-    "uptimeYear": "98.92%",
+    "uptime": "98.04%",
+    "uptimeDay": "90.26%",
+    "uptimeWeek": "98.04%",
+    "uptimeMonth": "98.04%",
+    "uptimeYear": "98.04%",
     "time": 4046,
     "timeDay": 4289,
     "timeWeek": 4046,
     "timeMonth": 4046,
     "timeYear": 4046,
     "dailyMinutesDown": {
-      "2022-06-29": 77
+      "2022-06-30": 53,
+      "2022-06-29": 87
     }
   },
   {
